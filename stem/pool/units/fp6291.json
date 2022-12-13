@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Feeling Technology",
+    "name": "FP6291",
+    "pins": {
+        "368372b1-6931-4910-b4fe-f83e908fbce8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "42c86530-aeaa-425d-b916-208537077ecc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OC",
+            "swap_group": 0
+        },
+        "992eb4d2-3674-494d-bcbb-e66d4b7be29f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "d0505371-61b5-4f2b-b7ae-769dc15a5058": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "ea666b0e-9197-4dc3-9412-cc1f0e763e0a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LX",
+            "swap_group": 0
+        },
+        "fdd6f2a7-4e48-4a90-b97d-4ba3ced36a52": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dff4300c-c624-4123-8d5d-a6d459fb008f"
+}

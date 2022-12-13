@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "d53b0557-3494-4285-8d94-7608208a0f23": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c12a4957-94f2-44d1-8c1a-e24fb3c4e8e6"
+        }
+    },
+    "manufacturer": "GigaDevice",
+    "name": "GD32F310G8U6",
+    "prefix": "U",
+    "tags": [
+        "arm",
+        "ic",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "d26a3ac6-d295-4c93-8c07-bc03b07ce478"
+}

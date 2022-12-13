@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "b194dad8-849c-48e8-8dca-186bdb598aed": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2db1c650-1d11-4ff8-81ad-07bb1c7d865d"
+        }
+    },
+    "manufacturer": "",
+    "name": "ESP32-C3-MINI-1",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mcu",
+        "wifi"
+    ],
+    "type": "entity",
+    "uuid": "28136c4e-b2d7-46b2-a49b-63b34caf822b"
+}

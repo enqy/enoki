@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "MAX809T"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/2110111830_UMW-Youtai-Semiconductor-Co---Ltd--MAX809T_C347372.pdf"
+    ],
+    "description": [
+        false,
+        "3.08V Reset Monitor"
+    ],
+    "entity": "0151bc91-2948-4959-b4ab-3abb2f891eb6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "UMW(Youtai Semiconductor Co., Ltd.)"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a37e4931-af72-4de0-b4e4-0357747ba44d",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "e4920823-4900-4cb0-939f-35f650be7b0f",
+            "pin": "daf596b7-eeac-495d-be81-dd9cf21bc55f"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "e4920823-4900-4cb0-939f-35f650be7b0f",
+            "pin": "5d2a2cdd-dcf4-4db2-a412-3b9fbfb52bd0"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "e4920823-4900-4cb0-939f-35f650be7b0f",
+            "pin": "6d11012e-f9a6-4fa1-9ad5-05a2aba4f5f7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "monitor",
+        "reset"
+    ],
+    "type": "part",
+    "uuid": "055a4027-6714-4f90-bacb-1a3c46ddaa80",
+    "value": [
+        false,
+        ""
+    ]
+}

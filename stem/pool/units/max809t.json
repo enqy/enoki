@@ -1,0 +1,26 @@
+{
+    "manufacturer": "UMW(Youtai Semiconductor Co., Ltd.)",
+    "name": "MAX809T",
+    "pins": {
+        "5d2a2cdd-dcf4-4db2-a412-3b9fbfb52bd0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6d11012e-f9a6-4fa1-9ad5-05a2aba4f5f7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "daf596b7-eeac-495d-be81-dd9cf21bc55f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4b416ef2-b7a8-4889-a101-907f7c573148"
+}

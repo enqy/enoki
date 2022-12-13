@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "77848320-f746-48a3-b118-6b314dd2f5e9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "94fb3a3d-1f8a-41cf-b90a-a7689e10a243"
+        }
+    },
+    "manufacturer": "",
+    "name": "MMC5983MA",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "6f4a8ab9-f58a-4c54-9d03-d2859d842907"
+}

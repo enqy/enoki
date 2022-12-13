@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e4920823-4900-4cb0-939f-35f650be7b0f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4b416ef2-b7a8-4889-a101-907f7c573148"
+        }
+    },
+    "manufacturer": "UMW(Youtai Semiconductor Co., Ltd.)",
+    "name": "MAX809T",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "0151bc91-2948-4959-b4ab-3abb2f891eb6"
+}

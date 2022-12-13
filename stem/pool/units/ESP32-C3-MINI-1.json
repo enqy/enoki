@@ -1,0 +1,122 @@
+{
+    "manufacturer": "",
+    "name": "ESP32-C3-MINI-1",
+    "pins": {
+        "02edc522-9a9e-48c2-be18-3a1c16c7572b": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "042effc8-6659-454d-8f62-ecd329b9081c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO9",
+            "swap_group": 0
+        },
+        "076a5e31-9082-4301-b48f-7ca02ec9d14b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO8",
+            "swap_group": 0
+        },
+        "12b31a8d-0b28-4b23-bb64-68ff1ae0a7d1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO1/ADC1_CH1/XTAL_32K_N",
+            "swap_group": 0
+        },
+        "2c362b90-3e11-4eea-b4de-80297928889c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO20/U0RXD",
+            "swap_group": 0
+        },
+        "3780e8ab-4f3e-4f6f-941c-6e037b62d9a8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO7",
+            "swap_group": 0
+        },
+        "4d7354d2-a7a6-413c-9010-d11117781f62": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO10",
+            "swap_group": 0
+        },
+        "4d872c41-9a7b-470d-8918-23cfb326e262": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0/ADC1_CH0/XTAL_32K_P",
+            "swap_group": 0
+        },
+        "6c27bfc7-b748-4b30-abd0-5d6cece42780": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "6fa55672-7a70-4b34-98a2-f97408f9ecbb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO19/USB_D+",
+            "swap_group": 0
+        },
+        "75c28838-dc67-480e-9e04-6aabf33c51db": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "7cdff8c5-b87a-414d-b300-f674481b53b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN/CHIP_PU",
+            "swap_group": 0
+        },
+        "8555ca25-530c-43e8-a6d7-90612ff630b6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2/ADC1_CH2",
+            "swap_group": 0
+        },
+        "8d9cc5c0-a303-4f4b-b641-ea27b2de4bb5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4/ADC1_CH4",
+            "swap_group": 0
+        },
+        "95895e56-a852-470c-bc1d-ed1efb8e2969": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO6",
+            "swap_group": 0
+        },
+        "965a9a64-933b-401f-8827-64fd9135ca11": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3/ADC1_CH3",
+            "swap_group": 0
+        },
+        "a7f8010e-5b3a-4957-8c24-1f891a4db5f3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO5/ADC2_CH0",
+            "swap_group": 0
+        },
+        "df1a8192-8ab9-4ad3-9e6f-e9840c520ca1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO21/U0TXD",
+            "swap_group": 0
+        },
+        "e5e42624-d4d7-4467-b4d5-0f80935f4af4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO18/USB_D-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2db1c650-1d11-4ff8-81ad-07bb1c7d865d"
+}

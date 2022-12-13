@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "983ec948-d81b-4f33-ba58-05ae99b323cf": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e1251abb-d04f-431f-b681-0e8fa2466cee"
+        }
+    },
+    "manufacturer": "",
+    "name": "RP2040",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "317e05c1-7b41-4d94-8964-4a78278e96bb"
+}

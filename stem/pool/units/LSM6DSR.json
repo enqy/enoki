@@ -1,0 +1,86 @@
+{
+    "manufacturer": "ST",
+    "name": "LSM6DSR",
+    "pins": {
+        "006b32a4-9ba8-45ea-91a4-7d53f6a95d16": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDx",
+            "swap_group": 0
+        },
+        "227ccd2d-7138-4b4d-a0e1-413cd9bc28cf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT1",
+            "swap_group": 0
+        },
+        "35898d05-55a3-4356-880c-1f8e16ac263e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vdd_IO",
+            "swap_group": 0
+        },
+        "4e6c0c06-5b8f-4a46-a3e7-f02fcbede20a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDO",
+            "swap_group": 0
+        },
+        "5fd0ac4b-abb4-4e50-b801-4c5fd995c428": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vdd",
+            "swap_group": 0
+        },
+        "7dcc4764-b230-46bb-ad2d-4b8abc582b91": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SCx",
+            "swap_group": 0
+        },
+        "81dd00cc-43ab-4a6c-920b-d58c2bbab458": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "83237b9d-bab2-405e-91c8-344837d05db4": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "OCS_Aux",
+            "swap_group": 0
+        },
+        "88d0e58c-146e-41c2-b4d6-90167c3ca774": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "980f0027-6470-43d9-80b2-5cbcc12f62a7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT2",
+            "swap_group": 0
+        },
+        "a1f1f131-38c3-43b8-b44d-d439e06355a5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS",
+            "swap_group": 0
+        },
+        "a2937ef6-ef48-4a34-ba08-bdfeacf94eaf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "cf042cad-68bb-47a8-a99f-41e8399dd172": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "SDO_Aux",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "da9af6cc-a2fd-490f-b4ef-c74383fd3fa6"
+}

@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "MMC5983MA"
+    ],
+    "datasheet": [
+        false,
+        "https://www.memsic.com/Public/Uploads/uploadfile/files/20220119/MMC5983MADatasheetRevA.pdf"
+    ],
+    "description": [
+        false,
+        "The MMC5983MA is an AEC-Q100 qualified complete 3-axis magnetic sensor with on-chip signal processing and integrated I2C/SPI bus suitable for use in automotive applications. The device can be connected directly to a microprocessor, eliminating the need for A/D converters or timing resources."
+    ],
+    "entity": "6f4a8ab9-f58a-4c54-9d03-d2859d842907",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Memsic"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5bda5e4c-ae54-45e1-a676-38b8b9f1f13b",
+    "pad_map": {
+        "1841f6e5-9eea-4e88-9e12-8d93608b7c08": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "e296e8a8-0399-4247-8f24-96b591955210"
+        },
+        "1cdf8166-a17b-4d46-862a-202f0e3a7913": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f"
+        },
+        "25c81d4b-8905-4e75-b8ed-d472d6ed0dfe": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "df1cad6f-0d73-4d97-948f-65b63878d7cc"
+        },
+        "32706b5a-0f56-47e2-9dcf-08d37eceefc2": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f"
+        },
+        "4f737175-7055-48f6-8434-1fe08f60b2ec": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "ee957880-d756-4e96-863d-b64506bbcd6a"
+        },
+        "5fc7f1ad-0707-486a-be18-ce7a26efbdec": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f"
+        },
+        "63a569a9-e138-4144-b8d6-960234da3b9a": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "06cf5012-6d5b-474d-8f24-5b3ddd02b4e6"
+        },
+        "889319c8-aa71-4f00-8943-c877eed38ec9": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "dc4a5643-1bbd-4611-b949-f9e8eb2047d8"
+        },
+        "8afd8bfd-90da-42a7-907b-f9561485ebe7": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "88621618-ecf0-46e9-b689-4c6143703c4d"
+        },
+        "8eab1f86-7bcb-4ad6-9934-161605fe305f": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f"
+        },
+        "94eb73cc-bc4e-4f4d-b99e-7e9bb9b07371": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "df1cad6f-0d73-4d97-948f-65b63878d7cc"
+        },
+        "997b8f29-5f22-4301-9805-95272b0ba3fc": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "ffc9e865-b5e1-4997-bd14-975e464bb408"
+        },
+        "a5011fc0-5495-417f-adf9-de0fcaf9cc6c": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f"
+        },
+        "a738c948-26e1-4c81-ba2b-491233f0f57e": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f"
+        },
+        "c5c99950-9642-4fc7-9e23-1044e6b540ce": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "7ec9df82-4e76-4178-8266-2d570aa12d41"
+        },
+        "ceda8471-2e56-400d-848e-9af029f99018": {
+            "gate": "77848320-f746-48a3-b118-6b314dd2f5e9",
+            "pin": "fc5cbca0-3537-4b72-9ebc-2b8b5e58a159"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "magnetic",
+        "sensor"
+    ],
+    "type": "part",
+    "uuid": "0526744d-1d57-4f8b-bbe5-00ba3aed80fc",
+    "value": [
+        false,
+        ""
+    ]
+}

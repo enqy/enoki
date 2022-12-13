@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "67941151-58bb-46f8-b709-a5ae367c2e26": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "dff4300c-c624-4123-8d5d-a6d459fb008f"
+        }
+    },
+    "manufacturer": "Feeling Technology",
+    "name": "FP6291",
+    "prefix": "U",
+    "tags": [
+        "boost",
+        "dcdc"
+    ],
+    "type": "entity",
+    "uuid": "34bea489-dc75-4647-96c4-c02910e13143"
+}

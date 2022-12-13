@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "47660863-3ff2-4ea0-9e8c-a97d523370e9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "da9af6cc-a2fd-490f-b4ef-c74383fd3fa6"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "LSM6DSR",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "imu"
+    ],
+    "type": "entity",
+    "uuid": "b44f96fa-d6b9-464c-9795-09819d44aaf1"
+}

@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "MMC5983MA",
+    "pins": {
+        "06cf5012-6d5b-474d-8f24-5b3ddd02b4e6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL/SPI_SCK",
+            "swap_group": 0
+        },
+        "0eb24b5f-c7cc-4276-b359-f2bea1af9a6f": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "7ec9df82-4e76-4178-8266-2d570aa12d41": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA/SPI_SDI",
+            "swap_group": 0
+        },
+        "88621618-ecf0-46e9-b689-4c6143703c4d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT",
+            "swap_group": 0
+        },
+        "dc4a5643-1bbd-4611-b949-f9e8eb2047d8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPI_SDO",
+            "swap_group": 0
+        },
+        "df1cad6f-0d73-4d97-948f-65b63878d7cc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e296e8a8-0399-4247-8f24-96b591955210": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "ee957880-d756-4e96-863d-b64506bbcd6a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~SPI_CS",
+            "swap_group": 0
+        },
+        "fc5cbca0-3537-4b72-9ebc-2b8b5e58a159": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CAP",
+            "swap_group": 0
+        },
+        "ffc9e865-b5e1-4997-bd14-975e464bb408": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "94fb3a3d-1f8a-41cf-b90a-a7689e10a243"
+}

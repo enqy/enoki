@@ -1,0 +1,92 @@
+{
+    "MPN": [
+        false,
+        "LSM6DSR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/lsm6dsr.pdf"
+    ],
+    "description": [
+        false,
+        "The LSM6DSR is a system-in-package featuring a 3D digital accelerometer and a 3D digital gyroscope with an extended full-scale range for the gyroscope, up to 4000 dps, and high stability over temperature and time."
+    ],
+    "entity": "b44f96fa-d6b9-464c-9795-09819d44aaf1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5eab60cb-8885-41e5-9d82-e1d9f7003f86",
+    "pad_map": {
+        "0c9f5ddd-7e7c-4e25-ab27-24cba4723d80": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "227ccd2d-7138-4b4d-a0e1-413cd9bc28cf"
+        },
+        "119a72aa-962d-4244-b37f-2284d8275ee0": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "a1f1f131-38c3-43b8-b44d-d439e06355a5"
+        },
+        "2e03fee5-927a-45fc-8539-c8e50866154b": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "35898d05-55a3-4356-880c-1f8e16ac263e"
+        },
+        "34cfab14-d6f2-4eac-8b94-8eb3a67c6b7e": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "a2937ef6-ef48-4a34-ba08-bdfeacf94eaf"
+        },
+        "3a8c961d-db86-4b44-8cd5-e84ba9211d9d": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "cf042cad-68bb-47a8-a99f-41e8399dd172"
+        },
+        "504626da-5813-49ce-8519-8726d0608c7d": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "006b32a4-9ba8-45ea-91a4-7d53f6a95d16"
+        },
+        "5963fd74-4b27-4a11-87a4-cdd2b05015d9": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "a2937ef6-ef48-4a34-ba08-bdfeacf94eaf"
+        },
+        "6fee86cd-fd55-4cf9-9881-20ae95afec88": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "4e6c0c06-5b8f-4a46-a3e7-f02fcbede20a"
+        },
+        "875fee38-44a9-41ec-ae59-3a2dd31df0a5": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "83237b9d-bab2-405e-91c8-344837d05db4"
+        },
+        "94b0e3ad-8c53-455b-93d9-5caf86de5e8d": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "81dd00cc-43ab-4a6c-920b-d58c2bbab458"
+        },
+        "aed5cdec-e8a0-41e0-9e21-f8a7c1816ee1": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "7dcc4764-b230-46bb-ad2d-4b8abc582b91"
+        },
+        "bc2c28fb-5b6b-4587-808c-55932609f04c": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "88d0e58c-146e-41c2-b4d6-90167c3ca774"
+        },
+        "c4521d34-e4bb-459d-a4c0-2b1b4214e05c": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "980f0027-6470-43d9-80b2-5cbcc12f62a7"
+        },
+        "dfddd3d7-d1be-4ec7-aaf9-eaa8c1f63bf9": {
+            "gate": "47660863-3ff2-4ea0-9e8c-a97d523370e9",
+            "pin": "5fd0ac4b-abb4-4e50-b801-4c5fd995c428"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "imu"
+    ],
+    "type": "part",
+    "uuid": "937eabf8-0e9e-47d5-9b1f-cd8929bdbf40",
+    "value": [
+        false,
+        ""
+    ]
+}

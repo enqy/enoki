@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "dcf88c1f-95bc-4279-b7d6-a8abc4db9bf9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "513cadfb-dd4b-480a-aec9-62f054018093"
+        }
+    },
+    "manufacturer": "",
+    "name": "ICM-42688-P",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "2119972e-b6ab-443d-991c-cc9026bb4501"
+}

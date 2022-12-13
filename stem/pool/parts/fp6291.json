@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "FP6291"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/1810182113_Feeling-Tech-FP6291LR-G1_C18701.pdf"
+    ],
+    "description": [
+        false,
+        "1MHz, 2A Step-Up Current Mode PWM Converter"
+    ],
+    "entity": "34bea489-dc75-4647-96c4-c02910e13143",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Feeling Technology"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "9fb7ced0-ea1c-4f40-bb24-757a2a21d8fd": "FP6291LR-G1",
+        "c662283b-c0e8-4766-808a-bc506cbe5998": "C18701"
+    },
+    "package": "db48b860-9206-4222-b531-dea96399c70b",
+    "pad_map": {
+        "40a9f890-5335-4ead-bd4a-d1dba2de41ae": {
+            "gate": "67941151-58bb-46f8-b709-a5ae367c2e26",
+            "pin": "42c86530-aeaa-425d-b916-208537077ecc"
+        },
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "67941151-58bb-46f8-b709-a5ae367c2e26",
+            "pin": "368372b1-6931-4910-b4fe-f83e908fbce8"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "67941151-58bb-46f8-b709-a5ae367c2e26",
+            "pin": "992eb4d2-3674-494d-bcbb-e66d4b7be29f"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "67941151-58bb-46f8-b709-a5ae367c2e26",
+            "pin": "ea666b0e-9197-4dc3-9412-cc1f0e763e0a"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "67941151-58bb-46f8-b709-a5ae367c2e26",
+            "pin": "fdd6f2a7-4e48-4a90-b97d-4ba3ced36a52"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "67941151-58bb-46f8-b709-a5ae367c2e26",
+            "pin": "d0505371-61b5-4f2b-b7ae-769dc15a5058"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "boost",
+        "dcdc"
+    ],
+    "type": "part",
+    "uuid": "1649b279-072f-490a-a8f1-1dbaf968b4a7",
+    "value": [
+        false,
+        ""
+    ]
+}

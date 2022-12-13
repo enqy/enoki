@@ -1,0 +1,92 @@
+{
+    "manufacturer": "",
+    "name": "ICM-42688-P",
+    "pins": {
+        "18cb4fee-b622-4315-95b7-24a02a04d4d0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "2b37b389-5e20-49d4-9ed4-53f93bce79c2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AP_SDA/AP_SDIO/AP_SDI",
+            "swap_group": 0
+        },
+        "3111fc96-d077-45bc-97d1-ca7cdb8e09c4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "INT2/FSYNC/CLKIN",
+            "swap_group": 0
+        },
+        "387360bb-7fab-4677-96ae-523057eb0791": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "403685c8-a14e-4c09-846f-7f09bfdb5b79": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV_11",
+            "swap_group": 0
+        },
+        "408a7fcf-6855-4f3c-b049-940b2408bec0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "4320e653-452d-4554-aea5-24a2b809724a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AP_CS",
+            "swap_group": 0
+        },
+        "4cd2df3e-bf5e-4d52-af89-76c4e0703c6d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV_7",
+            "swap_group": 0
+        },
+        "6d5fae2b-b3f5-4984-ae5b-20877d5808dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AP_SCL/AP_SCLK",
+            "swap_group": 0
+        },
+        "9fb03eb3-a9e7-469d-be05-e1d55b0164bf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV_10",
+            "swap_group": 0
+        },
+        "c3c8cb0f-56f7-4035-b2ba-b3bd755bf69e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT1/INT",
+            "swap_group": 0
+        },
+        "c8704e87-b01a-4305-914c-46f359e0ebcf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV_2",
+            "swap_group": 0
+        },
+        "d5527c52-4e85-4ebf-9bfd-a3ce11536e89": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AP_SDO/AP_AD0",
+            "swap_group": 0
+        },
+        "de408668-6c11-4734-b0cd-991cea10d601": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV_3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "513cadfb-dd4b-480a-aec9-62f054018093"
+}
