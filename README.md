@@ -1,6 +1,6 @@
 # enoki
 
-A supposedly accurate and precise inertial full body motion tracking system.
+A supposedly accurate and precise motion tracking system.
 
 PCB's designed in [horizon-eda](https://horizon-eda.org/).
 
